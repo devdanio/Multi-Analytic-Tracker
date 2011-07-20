@@ -42,8 +42,7 @@ $(document).ready(function() {
               }, function(data) {
               var ids = $.parseJSON(data);
               $(ids).each(function(k, v){
-                  $('#pages input:checkbox[value='+v+']').attr('checked','checked');
-                  console.log(v);                                      
+                  $('#pages input:checkbox[value='+v+']').attr('checked','checked');                                    
                 })
               
             });     
