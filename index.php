@@ -3,7 +3,7 @@
 Plugin Name: Multi Analytic Tracker
 Plugin URI: http://www.danramosd.com
 Description: Gives the ablity to add multiple analytics codes to the site.  The codes can be added by page.
-Author: lifeshield
+Author: Dan Ramos-Dominko
 Version: 1.0
 Author URI: http://www.danramosd.com
 */
