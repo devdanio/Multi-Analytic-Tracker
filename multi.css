@@ -1,0 +1,18 @@
+.contentBox
+{
+    width: 600px;
+    border: 1px solid black;
+    background: #fff;
+    padding: 15px;
+    margin: 15px 0px;
+}
+.contentBox ul#pages{
+    margin-left:10px;
+}
+.contentBox li ul{
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.contentBox li{
+    margin-bottom: 15px;
+}
